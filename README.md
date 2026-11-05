@@ -58,6 +58,13 @@ Una iniciativa tecnológica enfocada en el desarrollo de aplicaciones web, siste
 
 ## 🤖 Inteligencia Artificial y Desarrollo Asistido
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-412991?style=for-the-badge" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-OpenAI-412991?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/Google-Antigravity-4285F4?style=for-the-badge" alt="Google Antigravity" />
+</p>
+
 Integro herramientas de inteligencia artificial en mi flujo de trabajo para planificar, desarrollar, analizar, probar y mejorar aplicaciones.
 
 Considero la IA una herramienta que amplía las posibilidades del desarrollo de software, permitiendo acelerar procesos y explorar soluciones técnicas.
