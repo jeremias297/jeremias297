@@ -1,7 +1,7 @@
   <p align="center">
   <img src="./Logotipo%20met%C3%A1lico%20SILVEIRA%20TECHNOLOGIES.png" alt="SILVEIRA Technologies" width="300">
 </p>
-# 👋 ¡Hola! Soy Jeremias Oliveira
+<h1 align="center">👋 ¡Hola! Soy Jeremias Oliveira</h1>
 
 ### 💻 Desarrollador de Software | Aplicaciones Web | Desarrollo Asistido por IA
 
