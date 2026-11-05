@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RUTA_DEL_LOGOTIPO" alt="SILVEIRA Technologies" width="260">
+  <img src="README.md" alt="SILVEIRA Technologies" width="260">
 </p>
 # 👋 ¡Hola! Soy Jeremias Oliveira
 
