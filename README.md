@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="README.md" alt="SILVEIRA Technologies" width="260">
+  <p align="center">
+  <img src="./Logotipo%20met%C3%A1lico%20SILVEIRA%20TECHNOLOGIES.png" alt="SILVEIRA Technologies" width="300">
 </p>
 # 👋 ¡Hola! Soy Jeremias Oliveira
 
