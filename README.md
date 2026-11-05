@@ -24,7 +24,9 @@ Una iniciativa tecnológica enfocada en el desarrollo de aplicaciones web, siste
 ---
 
 ## 🛠️ Tecnologías y herramientas
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,supabase,firebase,git,github,vscode&perline=6" alt="Tecnologías de desarrollo" />
+</p>
 **Frontend y desarrollo web**
 
 - React
